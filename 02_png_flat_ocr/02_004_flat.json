@@ -1,0 +1,1123 @@
+[
+  {
+    "boundingBox": [
+      840,
+      209,
+      1070,
+      208,
+      1070,
+      239,
+      840,
+      243
+    ],
+    "text": "20231130 001",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      632,
+      393,
+      904,
+      392,
+      905,
+      430,
+      633,
+      432
+    ],
+    "text": "診療 明",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      911,
+      398,
+      1070,
+      400,
+      1069,
+      438,
+      911,
+      435
+    ],
+    "text": "細 書",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1168,
+      448,
+      1354,
+      451,
+      1354,
+      477,
+      1167,
+      473
+    ],
+    "text": "2023年11月30日",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      564,
+      485,
+      674,
+      486,
+      673,
+      513,
+      564,
+      511
+    ],
+    "text": "飼育者名",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      914,
+      491,
+      943,
+      494,
+      941,
+      514,
+      913,
+      512
+    ],
+    "text": "様",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.915
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1235,
+      490,
+      1361,
+      495,
+      1360,
+      521,
+      1235,
+      515
+    ],
+    "text": "No. 419302",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      561,
+      539,
+      676,
+      540,
+      675,
+      570,
+      560,
+      568
+    ],
+    "text": "ペット名",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.945
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      755,
+      542,
+      828,
+      543,
+      828,
+      568,
+      755,
+      570
+    ],
+    "text": "ちゃん",
+    "appearance": {
+      "style": {
+        "name": "handwriting",
+        "confidence": 0.936
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      843,
+      603,
+      998,
+      606,
+      997,
+      642,
+      842,
+      639
+    ],
+    "text": "¥18, 260",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      312,
+      755,
+      567,
+      755,
+      567,
+      785,
+      312,
+      785
+    ],
+    "text": "診療明細内容",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1274,
+      723,
+      1363,
+      723,
+      1359,
+      755,
+      1271,
+      754
+    ],
+    "text": "1 /1",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      977,
+      762,
+      1025,
+      764,
+      1023,
+      791,
+      976,
+      790
+    ],
+    "text": "数量",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1119,
+      765,
+      1163,
+      765,
+      1162,
+      793,
+      1118,
+      792
+    ],
+    "text": "単価",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1317,
+      766,
+      1367,
+      768,
+      1366,
+      795,
+      1317,
+      792
+    ],
+    "text": "金額",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      518,
+      812,
+      605,
+      810,
+      605,
+      841,
+      519,
+      841
+    ],
+    "text": "ちゃん",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      305,
+      844,
+      450,
+      846,
+      449,
+      877,
+      305,
+      874
+    ],
+    "text": "2023/11/30",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      504,
+      849,
+      596,
+      846,
+      597,
+      873,
+      504,
+      876
+    ],
+    "text": "再診料",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1004,
+      851,
+      1015,
+      852,
+      1016,
+      871,
+      1005,
+      870
+    ],
+    "text": "1",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.769
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1139,
+      850,
+      1184,
+      850,
+      1182,
+      875,
+      1139,
+      875
+    ],
+    "text": "700",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      503,
+      879,
+      766,
+      878,
+      766,
+      909,
+      503,
+      910
+    ],
+    "text": "犬6種混合ワクチン",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1325,
+      852,
+      1374,
+      852,
+      1374,
+      876,
+      1326,
+      876
+    ],
+    "text": "700",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1004,
+      887,
+      1016,
+      889,
+      1016,
+      905,
+      1004,
+      904
+    ],
+    "text": "1",
+    "appearance": {
+      "style": {
+        "name": "handwriting",
+        "confidence": 0.823
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1106,
+      883,
+      1181,
+      883,
+      1181,
+      910,
+      1106,
+      910
+    ],
+    "text": "7.000",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      509,
+      917,
+      594,
+      916,
+      595,
+      942,
+      509,
+      944
+    ],
+    "text": "爪切り",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1301,
+      887,
+      1374,
+      885,
+      1373,
+      912,
+      1303,
+      913
+    ],
+    "text": "7,000",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1003,
+      920,
+      1014,
+      922,
+      1015,
+      938,
+      1003,
+      937
+    ],
+    "text": "1",
+    "appearance": {
+      "style": {
+        "name": "handwriting",
+        "confidence": 0.64
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1135,
+      921,
+      1183,
+      920,
+      1181,
+      944,
+      1133,
+      944
+    ],
+    "text": "600",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1327,
+      921,
+      1373,
+      921,
+      1372,
+      944,
+      1327,
+      945
+    ],
+    "text": "600",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      507,
+      950,
+      761,
+      949,
+      761,
+      977,
+      507,
+      980
+    ],
+    "text": "フットバッド毛がり",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1132,
+      954,
+      1182,
+      954,
+      1180,
+      977,
+      1131,
+      978
+    ],
+    "text": "600",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1323,
+      953,
+      1372,
+      951,
+      1372,
+      976,
+      1323,
+      977
+    ],
+    "text": "600",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      515,
+      982,
+      784,
+      984,
+      784,
+      1015,
+      515,
+      1013
+    ],
+    "text": "シンパリカトリオ M",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1109,
+      986,
+      1179,
+      985,
+      1177,
+      1009,
+      1107,
+      1011
+    ],
+    "text": "2,800",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1299,
+      986,
+      1367,
+      984,
+      1365,
+      1008,
+      1298,
+      1012
+    ],
+    "text": "2.800",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      507,
+      1018,
+      602,
+      1019,
+      602,
+      1050,
+      507,
+      1048
+    ],
+    "text": "内用薬",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1108,
+      1020,
+      1178,
+      1021,
+      1176,
+      1045,
+      1106,
+      1044
+    ],
+    "text": "4,900",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1295,
+      1021,
+      1362,
+      1019,
+      1363,
+      1043,
+      1296,
+      1045
+    ],
+    "text": "4.900",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      396,
+      1090,
+      465,
+      1086,
+      466,
+      1112,
+      396,
+      1114
+    ],
+    "text": "小計",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.945
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1279,
+      1084,
+      1358,
+      1086,
+      1358,
+      1110,
+      1278,
+      1107
+    ],
+    "text": "16, 600",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      398,
+      1119,
+      538,
+      1118,
+      538,
+      1145,
+      398,
+      1146
+    ],
+    "text": "10% 外税額",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1285,
+      1118,
+      1346,
+      1116,
+      1345,
+      1140,
+      1283,
+      1142
+    ],
+    "text": "1,660",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      405,
+      1150,
+      530,
+      1151,
+      530,
+      1177,
+      405,
+      1177
+    ],
+    "text": "(10% 外税",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      567,
+      1151,
+      655,
+      1151,
+      655,
+      1175,
+      567,
+      1174
+    ],
+    "text": "対象額",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      685,
+      1150,
+      851,
+      1149,
+      851,
+      1175,
+      685,
+      1176
+    ],
+    "text": "16,600 税抜",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      884,
+      1149,
+      1052,
+      1149,
+      1052,
+      1176,
+      884,
+      1175
+    ],
+    "text": "16,600 税額",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1095,
+      1148,
+      1177,
+      1148,
+      1177,
+      1174,
+      1094,
+      1174
+    ],
+    "text": "1,660)",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      459,
+      1618,
+      627,
+      1617,
+      627,
+      1652,
+      459,
+      1653
+    ],
+    "text": "【 受付時間 】",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      907,
+      1616,
+      1068,
+      1615,
+      1068,
+      1646,
+      907,
+      1648
+    ],
+    "text": "今回ご請求額",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1247,
+      1611,
+      1352,
+      1609,
+      1353,
+      1638,
+      1247,
+      1642
+    ],
+    "text": "¥18,260",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      353,
+      1676,
+      647,
+      1672,
+      648,
+      1698,
+      353,
+      1703
+    ],
+    "text": "☆ 平日(月~金曜日》",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      479,
+      1702,
+      708,
+      1697,
+      709,
+      1724,
+      479,
+      1729
+    ],
+    "text": "AM 9:00 ~~ AM11:30",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1243,
+      1674,
+      1353,
+      1672,
+      1353,
+      1699,
+      1243,
+      1702
+    ],
+    "text": "¥18,260",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      486,
+      1726,
+      712,
+      1723,
+      713,
+      1751,
+      486,
+      1753
+    ],
+    "text": "PM 5:00~PM 7:30",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      1242,
+      1702,
+      1353,
+      1699,
+      1353,
+      1726,
+      1242,
+      1729
+    ],
+    "text": "¥18,260",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      352,
+      1751,
+      712,
+      1747,
+      713,
+      1775,
+      353,
+      1778
+    ],
+    "text": "* JJ AM 9:00-AM11:30",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      464,
+      1777,
+      709,
+      1775,
+      709,
+      1802,
+      464,
+      1805
+    ],
+    "text": "PM 1:00 PM 2:30",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      379,
+      1799,
+      643,
+      1799,
+      643,
+      1827,
+      379,
+      1827
+    ],
+    "text": "日曜·祝日 休除",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.972
+      }
+    }
+  },
+  {
+    "boundingBox": [
+      382,
+      1938,
+      621,
+      1936,
+      621,
+      1964,
+      382,
+      1966
+    ],
+    "text": "保険診期名:大腸表",
+    "appearance": {
+      "style": {
+        "name": "other",
+        "confidence": 0.945
+      }
+    }
+  }
+]
